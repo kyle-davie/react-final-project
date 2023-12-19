@@ -1,0 +1,7 @@
+#addStudent {
+  border-radius: 5%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border: thin solid grey;
+  padding: 5em;
+  color: green;
+}

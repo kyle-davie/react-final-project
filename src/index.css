@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&family=Poppins:wght@400;500;900&family=Righteous&family=Roboto&family=Ubuntu&display=swap');
+
+html {
+  font-family: "Roboto";
+}
+
+img {max-width: 300px;}
+
+body {
+  margin: 0;
+}
+
